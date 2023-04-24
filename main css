@@ -1,0 +1,8 @@
+html{
+    background-color: lightslategray;
+}
+.homePage_button{
+    background-color: pink;
+    width: 250px;
+    height: 80px;
+}
