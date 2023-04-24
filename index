@@ -1,0 +1,20 @@
+<!DOCTYPE HTML> 
+<html lang="en">
+    <head>
+        <link rel=" stylesheet" href="./main.css">
+        <title>
+            Albion player's market
+        </title>
+        <body>
+           <img src="https://cdn.discordapp.com/attachments/695469388844761129/1099598959602847764/image_2023-04-23_0241342841.png" alt="Albion" width=10% height =6%>
+        <div>
+           <button class="homePage_button">Listing
+            <a href=" #">
+           </button>
+        </div>
+        <div>
+        <button class="homePage_button">Your Listing</button>
+     </div>
+    </body>
+    </head>
+</html>
